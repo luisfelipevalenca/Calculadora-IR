@@ -25,7 +25,7 @@ Salário Líquido: R$ 2312.5
 ```
 Calculadora-IR/
 ├── app.py                  # Script principal que inicia o servidor web
-├── calcula_IR_simples.py   # Módulo com a lógica de cálculo do IR (versao via terminla)
+├── calculadora_de_desconto_de_IR.py   # Módulo com a lógica de cálculo do IR (versao via terminla)
 ├── templates/
 │   └── index.html       # Página HTML da interface web
 └── README.md            # Este arquivo
