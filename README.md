@@ -10,13 +10,14 @@ Este projeto é uma calculadora simples de Imposto de Renda (IR) desenvolvida em
 ## Funcionalidades
 
 - Cálculo do imposto de renda com base na renda mensal.
-- Exibição detalhada do valor do imposto e da alíquota aplicada.
+- Exibição detalhada do salário bruto, alíquito, desconto aplicado e salário líquido.
 
-## Exemplo de uso
+## Exemplo de Informações retornadas
 
-Digite sua renda mensal: 4500
-Imposto devido: R$ 211,20
-Alíquota efetiva: 4,69%
+Salário informado: R$ 2500.0
+Alíquota aplicada: 7.5%
+Desconto IR: R$ 187.5
+Salário Líquido: R$ 2312.5
 ```
 
 ## 📁 Estrutura do Projeto
